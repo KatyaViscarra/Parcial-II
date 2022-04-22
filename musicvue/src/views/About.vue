@@ -18,22 +18,24 @@
                             <p class="text-muted">SMIS903320</p>
 
                             <div class="col-lg-4">
-                            <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="https://compoundacademy.com/wp-content/uploads/2021/11/job.png" alt="..." />
-                            <font color="171D1C" face="Open Sans"><h4><em>Elena Ruiz</em></h4></font>
-                            <p class="text-muted">SMIS903320</p>
-
-                            <div class="col-lg-4">
-                            <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="https://compoundacademy.com/wp-content/uploads/2021/11/job.png" alt="..." />
-                            <font color="171D1C" face="Open Sans"><h4><em>Daniela Alvarez</em></h4></font>
-                            <p class="text-muted">SMIS903320</p>
-
-                            <div class="col-lg-4">
               <div class="team-member">
                             <img class="mx-auto rounded-circle" src="https://compoundacademy.com/wp-content/uploads/2021/11/job.png" alt="..." />
                             <font color="171D1C" face="Open Sans"><h4><em>Katya Viscarra</em></h4></font>
                             <p class="text-muted">SMIS901120</p>
+              </div>
+                    </div>
+                    <div class="col-lg-4">
+              <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="https://compoundacademy.com/wp-content/uploads/2021/11/job.png" alt="..." />
+                            <font color="171D1C" face="Open Sans"><h4><em>Elena Ruiz</em></h4></font>
+                            <p class="text-muted">SMIS004820</p>
+              </div>
+                    </div>
+              <div class="col-lg-4">
+              <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="https://compoundacademy.com/wp-content/uploads/2021/11/job.png" alt="..." />
+                            <font color="171D1C" face="Open Sans"><h4><em>Daniela Alvarez</em></h4></font>
+                            <p class="text-muted">SMIS917920</p>
               </div>
                     </div>
           </div>
