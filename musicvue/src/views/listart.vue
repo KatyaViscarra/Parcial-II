@@ -1,12 +1,9 @@
 <template>
     <div>
-        <h1>
-            Listado de Arte: Musica y Teatro
-
-        </h1>
-
+        <br>
+        <h1>🎤🎭 Listado de Arte: Musica y Teatro 🎼🎧</h1>
+        <br>
         <art/>
-
     </div>
 </template>
 

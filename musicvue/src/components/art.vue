@@ -15,9 +15,9 @@ export default {
         }
     },
     created(){
-        axios.get('https://api-crud-example.herokuapp.com/Employee/read')
+        axios.get('http://localhost:8000/api/galleries')
         .then(response=>{
-            this.artes = response.data
+            this.artes = response.data.data
             console.log(response.data)
         })
         .catch(e=>{
